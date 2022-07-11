@@ -1,0 +1,8 @@
+{
+	"treatySubmissionPost": "/treatySubmission",
+	"treatySubmissionGet": "/treatySubmission/",
+	"treatySubmissionAuthPost": "/treatySubmission",
+	"treatySubmissionAuthGet": "/treatySubmission/",
+	"treatySubmissionAuthPut": "/treatySubmissions/status",
+	"keyCloak": "/auth/realms/lm/protocol/openid-connect/token"
+}
